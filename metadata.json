@@ -1,0 +1,6 @@
+{
+  "name": "Perch Wine & Coffee Bar",
+  "description": "Sophisticated wine and coffee bar in Khan Market, New Delhi, serving specialty coffees, European dishes, and an extensive wine selection.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
